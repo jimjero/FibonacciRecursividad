@@ -1,0 +1,7 @@
+C:\Users\SERGIO ALEJANDRO\source\repos\FibonacciRecursiva\FibonacciRecursiva\bin\Debug\FibonacciRecursiva.exe.config
+C:\Users\SERGIO ALEJANDRO\source\repos\FibonacciRecursiva\FibonacciRecursiva\bin\Debug\FibonacciRecursiva.exe
+C:\Users\SERGIO ALEJANDRO\source\repos\FibonacciRecursiva\FibonacciRecursiva\bin\Debug\FibonacciRecursiva.pdb
+C:\Users\SERGIO ALEJANDRO\source\repos\FibonacciRecursiva\FibonacciRecursiva\obj\Debug\FibonacciRecursiva.csprojAssemblyReference.cache
+C:\Users\SERGIO ALEJANDRO\source\repos\FibonacciRecursiva\FibonacciRecursiva\obj\Debug\FibonacciRecursiva.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO ALEJANDRO\source\repos\FibonacciRecursiva\FibonacciRecursiva\obj\Debug\FibonacciRecursiva.exe
+C:\Users\SERGIO ALEJANDRO\source\repos\FibonacciRecursiva\FibonacciRecursiva\obj\Debug\FibonacciRecursiva.pdb
